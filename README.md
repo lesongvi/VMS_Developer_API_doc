@@ -1,4 +1,4 @@
-# DEPRECATED! Tài liệu này đã không còn được cập nhật
+# DEPRECATED! Tài liệu này đã không còn được cập nhật, truy cập vào riêng từng repository để đọc tài liệu phù hợp, có thể sử dụng quickjump phía dưới.
 ## VMS_Developer_API_doc
 Tài liệu này đang được xây dựng dựa trên mã nguồn VMS build ngày 10/03/2022 (commit [3e5570649a16360e1b2cd9c18196f8faf183392b](https://github.com/lesongvi/ViMinerShop/commit/3e5570649a16360e1b2cd9c18196f8faf183392b)), quickjump [BitGeeks/ProjectAERT1_Javascript](https://github.com/BitGeeks/ProjectAERT1_Javascript), [BitGeeks/ProjectAERT2_PHP](https://github.com/BitGeeks/ProjectAERT2_PHP), [BitGeeks/ProjectAERT3_Java](https://github.com/BitGeeks/ProjectAERT3_Java)
 
